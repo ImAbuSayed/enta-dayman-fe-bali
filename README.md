@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> Subproject commit aed282b5fdc31f200fe1fcda8c68822c3654f210
+> يا روحي في الليل تناديني
+> نار الشوق في قلبي تحييني
+> نظرة من عيونك تكفيني
 > ...
 
 📄 **[View Full Lyrics →](./lyrics.txt)**
